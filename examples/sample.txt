@@ -1,0 +1,13 @@
+Hello, this is a sample file for testing our BitTorrent client!
+
+This file contains some text that we can use to test the downloading functionality.
+The BitTorrent protocol will split this file into pieces and download them from peers.
+
+Features of our BitTorrent client:
+- Parses .torrent files using bencode
+- Communicates with trackers via UDP
+- Downloads from multiple peers simultaneously
+- Handles pieces and blocks efficiently
+- Reconstructs the original file
+
+This is a great example of peer-to-peer file sharing technology!
